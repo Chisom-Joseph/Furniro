@@ -10,6 +10,10 @@
 
 ![Preview Image 2](https://github.com/Chisom-Joseph/Furniro/blob/main/public/preview/2.png?raw=true)
 
+## About Fruniro
+
+Furniro is a sleek and modern e-commerce platform built with Next.js. It provides users with a seamless online shopping experience for furniture and home decor.
+
 ## Pages
 
 - **Home**
@@ -17,10 +21,6 @@
 - **About**
 - **Contact**
 - **404**
-
-## About Fruniro
-
-Furniro is a sleek and modern e-commerce platform built with Next.js. It provides users with a seamless online shopping experience for furniture and home decor.
 
 ## Key features:
 
