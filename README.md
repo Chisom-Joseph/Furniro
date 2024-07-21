@@ -17,9 +17,17 @@
 - **Contact**
 - **404**
 
-## Course Summary
+## About Fruniro
 
-An easy to use e-Commerce web applicaiton built with Next.js v14, Tailwind css and Nodejs
+Furniro is a sleek and modern e-commerce platform built with Next.js. It provides users with a seamless online shopping experience for furniture and home decor.
+
+## Key features:
+
+- **User-Friendly Interface**: Intuitive navigation and a clean design for easy browsing.
+- **Product Listings**: Detailed product pages with images, descriptions, and pricing.
+- **Shopping Cart**: Simple cart functionality to manage purchases.
+- **Search and Filters**: Advanced search and filtering options to find products quickly.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Technologies used:
 
@@ -28,6 +36,7 @@ Here is a comprehensive list of the technologies used to make this project
 - **Next.js 14.2**
 - **Tailwind CSS**
 - **NodeJS**
+- **ExpressJS**
 
 ## How to run the program
 
@@ -43,7 +52,7 @@ Make sure you have the following installed on your machine:
 
 ### Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/Chisom-Joseph/Furniro.git
 ```
 
@@ -55,4 +64,4 @@ cd Furniro
 npm run dev
 # or
 yarn dev
-````
+```
