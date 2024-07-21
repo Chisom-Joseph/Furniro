@@ -5,6 +5,9 @@
 - **Live Project**: [Sprout & Scribble Store](http://chisomnjoku.com.ng/)
 
 **Furniro Trailer**
+https://github.com/Chisom-Joseph/Furniro/blob/main/public/preview/1.png?raw=true
+
+https://github.com/Chisom-Joseph/Furniro/blob/main/public/preview/2.png?raw=true
 
 ## Pages
 
@@ -42,7 +45,11 @@ Make sure you have the following installed on your machine:
 
 ````bash
 git clone https://github.com/Chisom-Joseph/Furniro.git
+```
+
+```bash
 cd Furniro
+```
 
 ```bash
 npm run dev
