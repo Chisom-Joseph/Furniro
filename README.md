@@ -5,9 +5,9 @@
 - **Live Project**: [Sprout & Scribble Store](http://chisomnjoku.com.ng/)
 
 **Furniro Trailer**
-https://github.com/Chisom-Joseph/Furniro/blob/main/public/preview/1.png?raw=true
+![Preview Image 1](https://github.com/Chisom-Joseph/Furniro/blob/main/public/preview/1.png?raw=true)
 
-https://github.com/Chisom-Joseph/Furniro/blob/main/public/preview/2.png?raw=true
+![Preview Image 2](https://github.com/Chisom-Joseph/Furniro/blob/main/public/preview/2.png?raw=true)
 
 ## Pages
 
