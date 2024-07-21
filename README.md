@@ -62,6 +62,10 @@ cd Furniro
 
 ```bash
 npm run dev
+```
+
 # or
+
+```bash
 yarn dev
 ```
