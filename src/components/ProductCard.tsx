@@ -57,8 +57,8 @@ export default function ProductCard({
       {/* Badge */}
       {showBadge && (
         <div
-          className={`text-white text-xs w-[40px] h-[40px] grid items-center justify-center rounded-full bg-green absolute top-4 right-4 ${
-            cardNew! && "bg-red"
+          className={`text-white text-xs w-[40px] h-[40px] grid items-center justify-center rounded-full absolute top-4 right-4 ${
+            cardNew ? "bg-green" : "bg-red"
           }`}
         >
           {cardNew ? (
