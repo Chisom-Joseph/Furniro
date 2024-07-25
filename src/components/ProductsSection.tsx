@@ -130,7 +130,7 @@ export default function ProductsSection() {
       <h2 className="text-center font-poppins-bold text-4xl mb-7">
         Our Products
       </h2>
-      <div className="flex items-center justify-center gap-5 flex-wrap">
+      <div className="flex items-center justify-center gap-5 flex-wrap mb-5">
         {cards.length > 0 ? (
           cards.map((card) => {
             return (
@@ -151,6 +151,10 @@ export default function ProductsSection() {
           <span className="text-center">There is currently not product</span>
         )}
       </div>
+
+      <button className="text-center mx-auto block text-gold border-solid border-[1px] border-gold p-3 py-2 px-12">
+        See More
+      </button>
     </section>
   );
 }
