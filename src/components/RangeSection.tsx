@@ -8,14 +8,14 @@ type card = { text: string; image: {} };
 
 export default function RangeSection() {
   return (
-    <section className="mb-10">
+    <section className="px-10 mb-12">
       <h2 className="text-center font-poppins-bold text-3xl  mb-1">
         Browse The Range
       </h2>
       <p className="text-center mb-10">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </p>
-      <div className="flex items-center justify-center gap-5">
+      <div className="flex items-center justify-center gap-5 flex-wrap">
         <RangeCard
           card={{
             text: "Dining",

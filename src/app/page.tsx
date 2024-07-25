@@ -4,10 +4,10 @@ import ProductsSection from "@/components/ProductsSection";
 
 export default function HomePage() {
   return (
-    <>
+    <main>
       <HeroSection />
       <RangeSection />
       <ProductsSection />
-    </>
+    </main>
   );
 }

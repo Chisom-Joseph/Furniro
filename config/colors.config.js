@@ -6,6 +6,8 @@ export default {
   green: "#2EC1AC",
   grey: "#F4F5F7",
   black: "#333333",
-  "light-grey": "#B0B0B0",
-  "dark-grey": "#898989",
+  "black-transparent": "#33333399",
+  "grey-100": "#F4F5F7",
+  "grey-200": "#B0B0B0",
+  "grey-300": "#898989",
 };
